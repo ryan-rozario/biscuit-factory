@@ -1,0 +1,12 @@
+{
+  "name": "cookies",
+  "version": "1.0.0",
+  "description": "Marathon challenge round 2 cookies task",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Ryan Rozario",
+  "license": "ISC"
+}
