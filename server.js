@@ -51,7 +51,7 @@ app.get('/', (req, res) => {
 
 
 app.get('/success', (req, res) => {
-    res.send('Success. You have learnt how to modify cookies.\n\n flag: 3d1t_c0ok135  ');
+    res.send('Success. You have learnt how to modify cookies. flag: 3d1t_c0ok135  ');
 })
 
 
