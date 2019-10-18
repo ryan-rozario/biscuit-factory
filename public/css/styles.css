@@ -87,8 +87,8 @@
   color: #EF3B3A;
 }
 body {
-  background-image: url("bg.jpg") ;
-  background-position:center;
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;      
@@ -111,7 +111,7 @@ body {
 .info {
   position: absolute;
   width: 900px;
-  height: 400px;
+  height: 450px;
   z-index: 15;
   top: 50%;
   left: 30%;
